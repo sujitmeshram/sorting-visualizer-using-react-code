@@ -2,7 +2,7 @@
   "name": "sorting-visualizer-using-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sujitmeshram.github.io",
+  "homepage": "https://sujitmeshram.github.io/Sorting-Visualizer-using-React",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
